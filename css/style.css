@@ -1,0 +1,66 @@
+* {
+   box-sizing: border-box;
+}
+
+.articlelayout {
+   padding: 40;
+   line-height: 1.25;
+   font-family: Georgia;
+   font-weight: lighter;
+   background-color: #FBF9F1;
+   margin-left: 60px;
+   margin-right: 90px;
+   width: 450px;
+
+}
+
+.articlelayout .Mark {
+    text-decoration: underline;
+    font-size: 20px;
+
+}
+
+.articlelayout .Mono {
+   font-family: 'Geneva';
+   font-size: 20px;
+   background-color: #333333;
+   padding: 2px;
+   color: #FFFFFF;
+}
+
+.articlelayout .hello{
+   font-size: 30px;
+}
+
+.articlelayout .SadStory{
+   font-size: 18px;
+   font-family: 'Geneva';
+}
+
+.articlelayout .blue{
+   color: #99C3DF;
+}
+
+.Men1 li{
+   font-family: Avenir;
+   border: 1px solid #EDEDED;
+   border-color: #F9F9F9;
+   border-width: 2px;
+   width: 250px;
+   list-style-type: none;
+   padding: 3px;
+}
+
+.Men1 .homebutton1 {
+   color:#66CC99;
+}
+
+.closing {
+   font-size: 10px;
+   font-family: 'Georgia', 'Geneva', serif;
+   margin-bottom: 2px;
+}
+
+.closing img{
+   margin-bottom: 2px;
+}
